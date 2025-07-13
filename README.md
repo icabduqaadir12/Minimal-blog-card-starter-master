@@ -38,6 +38,8 @@
 
 ![screenshot](/design/Desktop_1350px.jpg)
 
+![screenshot](/design/mobile_412px.jpg)
+
 This is a minimal and clean blog card component created using only HTML and CSS. It's fully responsive and styled to match the design challenge layout provided by DevChallenges. The component includes a featured image, category tag, title, and author details.
 
 ### What I learned

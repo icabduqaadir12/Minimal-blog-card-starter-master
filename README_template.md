@@ -1,6 +1,4 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center">Minimal Blog Card | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/minimal-blog-card" target="_blank">Minimal Blog Card</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://icabduqaadir12.github.io/Minimal-blog-card-starter-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/icabduqaadir12/Minimal-blog-card-starter-master">
       Solution
     </a>
     <span> | </span>
@@ -40,47 +38,41 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- What have you learned/improved?
-- Your wisdom? :)
--->
+This is a minimal and clean blog card component created using only HTML and CSS. It's fully responsive and styled to match the design challenge layout provided by DevChallenges. The component includes a featured image, category tag, title, and author details.
 
 ### What I learned
 
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
+- Semantic HTML5 structure for UI components
+- CSS layout styling with Flexbox
+- Applying consistent spacing, fonts, and image ratios
+- GitHub Pages deployment flow
 
 ### Useful resources
 
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
+- [MDN Web Docs](https://developer.mozilla.org/) — Helpful for reviewing semantic elements and layout behaviors.
+- [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) — For mastering flexible box layouts.
 
 ### Built with
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Google Fonts](https://fonts.google.com/specimen/Outfit)
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+
+- Simple blog card layout
+- Fully responsive
+- No JavaScript
+- Accessible and clean design
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+- [DevChallenges](https://devchallenges.io) for the challenge design
+- GitHub Pages for hosting
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@icabduqaadir12](https://github.com/icabduqaadir12)
